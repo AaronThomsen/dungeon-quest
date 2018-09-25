@@ -52,7 +52,7 @@ Abilities do more damage than regular attacks, but need to be unlocked and cost 
 
 <img src="https://image.prntscr.com/image/WZ6mJE0aTjqE5xdheNCRdw.png" alt="In-game Screenshot of Abilities" />
 
-Battles
+### Battles
 
 Battles consist of the user and monster taking turns attacking each other. The user always goes first and is given four options:
 
